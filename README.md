@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
@@ -34,3 +35,7 @@ Make sure your `svelte` service in the docker-compose file is running before run
 I've also added a couple convenience scripts so I don't have to type a bunch of stuff. They should be perfectly executable in unix-y environments if you `chmod +x *.cmd` in that directory.
 
 `terminal.cmd` just opens up an interactive node container so you can do `npm` command easily. `e2e.cmd` and `test.cmd` just do the `docker-compose up` equivalent commands.
+=======
+# choreapp
+Simple svelte-based app to randomly assign chores.
+>>>>>>> d38f416283d1c6b670ef20c463fde3dc68c9a323
