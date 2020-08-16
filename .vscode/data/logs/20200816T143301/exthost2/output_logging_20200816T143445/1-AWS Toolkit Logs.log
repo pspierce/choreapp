@@ -1,0 +1,9 @@
+Error logs for this session are permanently stored in /root/.config/Code/logs/aws_toolkit/aws_toolkit_20200816T143445.log
+2020-08-16 14:34:46 [INFO]: log level: info
+2020-08-16 14:34:46 [INFO]: Retrieving AWS endpoint data
+2020-08-16 14:34:46 [INFO]: OS:  Linux x64 5.4.0-42-generic
+Visual Studio Code Version:  1.46.1
+AWS Toolkit Version:  1.12.0
+
+2020-08-16 14:34:46 [INFO]: telemetry cache not found: '/root/.vscode-server/data/User/globalStorage/amazonwebservices.aws-toolkit-vscode/telemetryCache'
+2020-08-16 14:34:47 [INFO]: SAM CLI location: undefined

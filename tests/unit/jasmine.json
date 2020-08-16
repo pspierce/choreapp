@@ -1,0 +1,7 @@
+{
+  "spec_dir":"tests/unit",
+  "spec_files":[
+    "*.js",
+    "!run.js"
+  ]
+}

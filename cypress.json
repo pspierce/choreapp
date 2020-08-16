@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://svelte:5000",
+  "integrationFolder": "tests/e2e"
+}
